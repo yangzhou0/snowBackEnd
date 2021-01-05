@@ -58,7 +58,7 @@ def like_comment(request,comment_id):
         return JsonResponse(data=serialized_comment, status=200)
 
 @csrf_exempt
-def edit_comment(request,comment_id): # this can be used to update comment body or likes
+def edit_comment(request,comment_id): 
     if request.method == "POST":
         data = json.load(request)
         for k,v in data.items():
