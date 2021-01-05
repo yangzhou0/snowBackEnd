@@ -1,0 +1,22 @@
+{
+  "resorts": [
+    {
+      "name": "Vail",
+      "description": "Featuring more than 5,200 acres of developed terrain, seven legendary Back Bowls spanning seven miles, and the most groomed trails on the planet, Vail has access for every level of skier and rider.",
+      "coordinates": [
+        39.6061,
+        -106.355
+      ],
+      "website": "https://www.vail.com"
+    },
+    {
+      "name": "Keystone",
+      "description": "Keystone is home to three magnificent peaks that each offer unique experiences of their own--from guided snowcat tours and tree skiing to designated family ski trails and fun features for kids, beginners and the young at heart.",
+      "coordinates": [
+        39.6084,
+        -105.9437
+      ],
+      "website": "https://www.keystoneresort.com/"
+    }
+  ]
+}
