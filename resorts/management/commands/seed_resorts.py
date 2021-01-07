@@ -5,7 +5,6 @@ import json
 class Command(BaseCommand):
     def handle(self, *args, **options):
         seed_resorts()
-        # clear_data()
         print("completed")
 
 def seed_resorts():
@@ -22,7 +21,5 @@ def seed_resorts():
         )
         resort.save()
 
-def clear_data():
-  Resort.objects.all().delete()
 
 
