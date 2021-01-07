@@ -1,7 +1,7 @@
 {
   "resorts": [
     {
-      "name": "Vail",
+      "name": "VAIL",
       "description": "Featuring more than 5,200 acres of developed terrain, seven legendary Back Bowls spanning seven miles, and the most groomed trails on the planet, Vail has access for every level of skier and rider.",
       "coordinates": [
         39.6061,
@@ -10,13 +10,157 @@
       "website": "https://www.vail.com"
     },
     {
-      "name": "Keystone",
+      "name": "KEYSTONE",
       "description": "Keystone is home to three magnificent peaks that each offer unique experiences of their own--from guided snowcat tours and tree skiing to designated family ski trails and fun features for kids, beginners and the young at heart.",
       "coordinates": [
         39.6084,
         -105.9437
       ],
       "website": "https://www.keystoneresort.com/"
+    },
+    {
+      "name": "BEAVER CREEK",
+      "description": "Past the Beaver Creek gate lies an idyllic and intimate village where legendary ski terrain meets blissful luxury mountain resorts. A place where immaculate grooming and world-class skiing give way to warm après-ski cookies and five-star cuisine.",
+      "coordinates": [
+        39.6043,
+        -106.5167
+      ],
+      "website": "https://www.beavercreek.com/"
+    },
+    {
+      "name": "BRECKENRIDGE",
+      "description": "When you're ready to kick your winter up a notch, Breck will be ready for you. From reaching the very top of one of our five alpine peaks to uncovering the legendary stories of historic downtown Breckenridge, Breck is a vibrant mountain community with a contagious energy that fuels discovery and passion for life.",
+      "coordinates": [
+        39.4817,
+        -106.0384
+      ],
+      "website": "https://www.breckenridge.com/"
+    },
+    {
+      "name": "PARK CITY",
+      "description": "With over 7,300 acres, 300+ trails, 38 lifts, seven terrain parks, 14 bowls, six natural half pipes, one super pipe and one mini pipe, plus many diverse ski-in/ski-out and village adjacent lodging properties, Park City is an easily accessible, world-class mountain destination located in an authentic & historic western town.",
+      "coordinates": [
+        40.6514,
+        -111.5080
+      ],
+      "website": "https://www.parkcitymountain.com/"
+    },
+    {
+      "name": "CRESTED BUTTE",
+      "description": "Located off the beaten path, Crested Butte is known for some of the best lift-served extreme terrain in the nation. Home to world-class skiing, outdoor adventure, colorful storefronts, quirky costume events and friendly vibe.",
+      "coordinates": [
+        38.8991,
+        -106.9658
+      ],
+      "website": "https://www.skicb.com/"
+    },
+    {
+      "name": "HEAVENLY",
+      "description": "High above the sapphire-blue waters of Lake Tahoe, Heavenly is one of the most unique snow resorts on the planet. Whether you and your friends come to ski and ride from sunrise to sunset, head out to explore the new craft beer scene, or simply unwind at the condo with the people you care about most, we’ve got you.",
+      "coordinates": [
+        38.9353,
+        -119.9399
+      ],
+      "website": "https://www.skiheavenly.com/"
+    },
+    {
+      "name": "NORTHSTAR",
+      "description": "Hidden among the trees in the majestic Martis Valley in North Lake Tahoe, Northstar California welcomes friends and families looking for more than a mountain getaway. We invite you to discover what makes our resort unforgettable, where a weekend together feels timeless, and your comfort is our top priority.",
+      "coordinates": [
+        39.2746,
+        -120.1211
+      ],
+      "website": "https://www.northstarcalifornia.com/"
+    },
+    {
+      "name": "KIRKWOOD",
+      "description": "Kirkwood's 2,300 acres offer vast, open bowls, double diamond steeps, cliffs, chutes and miles of cornice-and two separate base facilities give access to a variety of groomed terrain. When you ski or ride Kirkwood it come with legitimate bragging rights, as you rip alongside California’s skiing elite",
+      "coordinates": [
+        38.6848,
+        -120.0652
+      ],
+      "website": "https://www.kirkwood.com/"
+    },
+    {
+      "name": "STEVENS PASS",
+      "description": "Stevens Pass, with its exciting terrain and plentiful snowfall, will be the Company’s second resort in the Pacific Northwest. The resort, less than 85 miles from Seattle, sits on the crest of Washington State’s Cascade Range within two national forests, the Mt. Baker-Snoqualmie National Forest on the west side of the crest and the Wenatchee National Forest on the east.",
+      "coordinates": [
+        47.7448,
+        -121.0890
+      ],
+      "website": "https://www.stevenspass.com/"
+    },
+    {
+      "name": "STOWE",
+      "description": "Stowe Mountain Resort is an internationally renowned destination. Surrounded by majestic Mt. Mansfield - the highest peak in Vermont - and Spruce Peak, Stowe is filled with activities and adventures for every season and every guest:  skiing, snowboarding, ice skating,  ZipTour and TreeTop Adventures, Stowe Rocks indoor rock climbing center,  Gondola SkyRide, the historic Auto Toll Road, Summer Adventure Camp, shopping, dining and more.",
+      "coordinates": [
+        44.5303,
+        -72.7814
+      ],
+      "website": "https://www.stowe.com/"
+    },
+    {
+      "name": "OKEMO",
+      "description": "Rising above the Vermont village of Ludlow, approximately three hours from Boston and four hours from New York City, Okemo Mountain Resort has developed a reputation for superior guest service, incredible snow quality, grooming, terrain parks, and family programs.",
+      "coordinates": [
+        43.4018,
+        -72.7170
+      ],
+      "website": "https://www.okemo.com/"
+    },
+    {
+      "name": "MOUNT SUNAPEE",
+      "description": "Mount Sunapee, the premier ski area in southern New Hampshire, is just a short 90-minute drive from Boston. The four-season, family-focused ski area has breathtaking views overlooking Lake Sunapee and consistently receives accolades for excellence in snowmaking and grooming.",
+      "coordinates": [
+        43.3319,
+        -72.0801
+      ],
+      "website": "https://www.mountsunapee.com/"
+    },
+    {
+      "name": "HUNTER MOUNTAIN",
+      "description": "From comfortable and spacious learning terrain perfect for first-timers, to steeps and bumps for the seasoned expert, and Empire Parks - there is something to satisfy any skiing or riding style!",
+      "coordinates": [
+        42.2029,
+        -74.2246
+      ],
+      "website": "https://www.huntermtn.com/"
+    },
+    {
+      "name": "MOUNT SNOW",
+      "description": "Vermont’s closest big mountain, Mount Snow is located in the Green Mountains and features four mountain faces of downhill skiing and snowboarding. Found on Route 100 (nine miles from Route 9 in Wilmington and 29 miles from Interstate 91), the resort is just 2.5 hours from Boston and 4 hours from New York City.",
+      "coordinates": [
+        42.9602,
+        -72.9204
+      ],
+      "website": "https://www.mountsnow.com/"
+    },
+    {
+      "name": "MAD RIVER",
+      "description": "There are 23 trails of various skill levels, a tubing park, three terrain parks, and two beginner areas. Of the resort's 12 total lifts, there are 6 surface lifts, 6 chair lifts, and 1 fixed quad lift. Since the annual natural snowfall averages only 36 inches (91 cm), Mad River Mountain has the largest snow making system in Ohio, with 130 snow cannons that cover all of its trails.",
+      "coordinates": [
+        40.3181,
+        -83.6778
+      ],
+      "website": "https://www.skimadriver.com/"
+    },
+    {
+      "name": "HIDDEN VALLEY",
+      "description": "Hidden Valley is located in Wildwood, Missouri, 29 mi (47 km) west of downtown St. Louis. The resort opened in 1982 and features a variety of terrain spread out over 17 trails, two terrain parks and two peaks. 110 fan guns have the ability to pump over 6600 gallons of water per minute, covering 100% of the terrain in as little as 48 hours.",
+      "coordinates": [
+        38.5353,
+        -90.6507
+      ],
+      "website": "https://www.hiddenvalleyski.com/"
+    },
+    {
+      "name": "PAOLI PEAKS",
+      "description": "Paoli Peaks is built on a natural hill at a 900 ft (270 m). elevation with a vertical drop of 300 ft (91 m). Currently, it has 17 runs and many chairlifts and tows. Though not in an extremely cold environment, Paoli Peaks uses its snow making capabilities to ensure plenty of snow for visitors.",
+      "coordinates": [
+        38.5556,
+        -86.5122
+      ],
+      "website": "https://www.paolipeaks.com/"
     }
   ]
 }
